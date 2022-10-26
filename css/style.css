@@ -1608,6 +1608,9 @@ img{
 	text-align: center;
 }
 
+#address-block strong{
+	font-size: 1.5em;
+}
 
 
 /* ==========================================================================
@@ -1635,7 +1638,7 @@ img{
 
 #footer-top .container,
 #footer-bottom .container{
-	padding: 40px 20px;
+	padding: 10px 20px;
 }
 
 #footer-top .socials{
